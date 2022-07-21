@@ -535,6 +535,8 @@ body {
     color: #222222;
 }
 
+
+
 .event__menu-box {
     padding: 24px 24px 32px;
 }
@@ -561,5 +563,41 @@ body {
     font-weight: 400;
     font-size: 14px;
     line-height: 155%;
+    color: #555555;
+}
+
+/* _________REPORT________ */
+
+.report {
+    background: #D3E5FE;
+}
+
+.report__box {
+    padding: 72px 286px;
+}
+
+.report__list {
+    display: flex;
+    justify-content: space-between;
+}
+
+.report__item {
+    
+}
+
+.report__number {
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 62px;
+    
+    color: #222222;
+}
+
+.report__text {
+    margin-top: 16px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 155%;
+
     color: #555555;
 }
